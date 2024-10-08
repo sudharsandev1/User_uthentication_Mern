@@ -1,0 +1,22 @@
+.container{
+    max-width: 400px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: #f7f7f7;
+    border-radius: 10px;
+}
+h1{
+    text-align: center;
+}
+label{
+    font-family: bold;
+}
+.form-control{
+    margin-bottom: 15px;
+}
+.btn-success{
+     width: 100%;
+     background-color: rgb(44, 175, 44);
+     border: none;
+     color: white;
+}
